@@ -6,6 +6,7 @@
 - [LinkedIn](https://engineering.linkedin.com/)
 - [Naukri.com](https://medium.com/naukri-engineering)
 - [Swiggy](https://bytes.swiggy.com/)
+- [Twitter](https://blog.twitter.com/engineering/en_us)
 - [Zerodha](https://zerodha.tech/)
 
 
