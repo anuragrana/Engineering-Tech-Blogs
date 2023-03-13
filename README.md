@@ -4,6 +4,7 @@
 
 
 - [Agoda](https://medium.com/agoda-engineering)
+- [Discord](https://discord.com/blog)
 - [LinkedIn](https://engineering.linkedin.com/)
 - [Naukri.com](https://medium.com/naukri-engineering)
 - [Shopify](https://shopify.engineering/)
