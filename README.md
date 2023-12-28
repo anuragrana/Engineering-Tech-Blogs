@@ -8,6 +8,7 @@
 - [LinkedIn](https://engineering.linkedin.com/)
 - [Naukri.com](https://medium.com/naukri-engineering)
 - [Shopify](https://shopify.engineering/)
+- [Stripe](https://stripe.com/blog/engineering)
 - [Slack](https://slack.engineering/)
 - [Swiggy](https://bytes.swiggy.com/)
 - [Twitter](https://blog.twitter.com/engineering/en_us)
@@ -15,5 +16,5 @@
 
 
 ------
-#### Contibution
-Please update the list by adding new links. Report any broken link. Raise a PR with your changes. Please share among your peers.
+#### Contribution
+Please update the list by adding new links. Report any broken links. Raise a PR with your changes. Please share with your peers.
